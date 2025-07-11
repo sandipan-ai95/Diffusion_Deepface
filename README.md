@@ -23,6 +23,9 @@ Generate human face images conditioned on multiple attributes like gender, age, 
 - Saves only valid, quality-controlled images.
 - Adjustable parameters: gender, age range, emotion.
 
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/87fb62ee-bf91-4f7f-bd84-278564800657" />
+
+
 ### Installation:
 ```bash
 pip install -r requirements.txt
