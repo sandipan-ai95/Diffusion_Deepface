@@ -1,0 +1,8 @@
+diffusers
+deepface==0.0.93
+tensorflow==2.15.0
+torch
+Pillow
+matplotlib
+uuid
+os
